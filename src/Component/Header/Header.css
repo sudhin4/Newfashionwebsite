@@ -1,0 +1,43 @@
+
+
+.logoheading{
+    font-family: 'Impact';
+    font-weight: 400;
+    font-size: 40px;
+    color: black;
+}
+
+.linkheading{
+    font-family: 'Poppins';
+    font-weight: 200;
+    transition: transform 1s ease;
+    font-size: 20px;
+    color: black;
+}
+
+.Linkdivv{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    
+}
+.linkheading:hover{
+    cursor: pointer;
+    transform: scale(1.03);
+    text-decoration: underline;
+}
+.handbagicon{
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.692);
+}
+.fullheadersectiondivv{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50%;
+    align-items: center;
+    position: relative;
+    top: 40px;
+  
+}

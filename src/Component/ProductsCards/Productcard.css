@@ -1,0 +1,59 @@
+.imagefroproductcard{
+    width: 250px;
+    height: 300px;
+    border-radius: 20px;
+    object-fit: contain;
+}
+
+.headingforproductcardd{
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    color: black;
+}
+.priceforproductcardd{
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 18px;
+    color: black;
+}
+.priceandcontent{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.fullcontentdivproductcard{
+    border: 1px solid rgba(0, 0, 0, 0.29);
+    padding: 20px;
+    border-radius: 10px;
+}
+.iconfroproductcard{
+    font-size: 30px;
+    color: black;
+}
+.detailssectionproductcardd{
+    display: flex;
+    flex-direction: row;
+    gap: 140px;
+    position: relative;
+    top: 10px;
+
+}
+
+.mappingcard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 60px;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.isredd{
+    transition: all 0.5s ease;
+    color: red;
+}
+.isnormal{
+    color: black;
+}

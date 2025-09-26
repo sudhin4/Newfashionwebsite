@@ -1,0 +1,36 @@
+.imagfordresssection{
+    width: 150px;
+    height: 150px;
+    border: 20px;
+    border-radius: 90px;
+    object-fit: cover;
+    border: 1px solid rgba(0, 0, 0, 0.094);
+    padding: 10px;
+}
+.headingfordresssection{
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-size: 18px;
+    color: black;
+}
+.mendress{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    transition: transform 1s;
+   
+}
+.mendress:hover{
+    cursor: pointer;
+    transform: scale(1.04);
+}
+.choosedresssectiondiv{
+    display: flex;
+    flex-direction: row;
+    gap: 90px;
+    justify-content: center;
+    margin-top: 100px;
+ 
+}
+

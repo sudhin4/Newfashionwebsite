@@ -1,0 +1,64 @@
+.Logoforfooter{
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    color: #000;
+}
+.contactsectionfooter{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+.emailfontsizee{
+    font-size: 18px;
+    color: #000;
+}
+.emailforfootercontact{
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-size: 15px;
+    color: black;
+}
+.footerserviceheading{
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-size: 15px;
+    color: black;
+}
+.firstcontentforfooter{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.ourservicefooter{
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    color: black;
+}
+.secondcontentfooter{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.footersecitondiv{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 50px;
+    position: relative;
+    padding-left: 50px;
+    padding-top: 30px;
+    border-top: 1px solid rgba(0, 0, 0, 0.155);
+}
+.copyrightsclain{
+    font-family: 'Poppins';
+    font-weight: 200;
+    font-size: 15px;
+    color: #000;
+    position: relative;
+    top: 50px;
+    justify-content: center;
+    display: flex;
+}
