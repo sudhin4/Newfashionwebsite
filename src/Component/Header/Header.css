@@ -41,3 +41,17 @@
     top: 40px;
   
 }
+
+@media only screen and (max-width:453px){
+    .linkheading{
+        display: none;
+    }
+    .logoheading{
+        font-family: 'Poppins';
+        font-weight: 500;
+        font-size: 30px;
+    }
+    .handbagicon{
+        font-size: 25px;
+    }
+}

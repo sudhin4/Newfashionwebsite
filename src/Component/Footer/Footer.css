@@ -62,3 +62,30 @@
     justify-content: center;
     display: flex;
 }
+.mobilefooter{
+    display: none;
+}
+
+@media only screen and (max-width:453px){
+    .footersecitondiv{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .Logoforfooter{
+        font-size: 25px;
+    }
+    .emailforfootercontact{
+        font-size: 15px;
+    }
+    .emailfontsizee{
+        font-size: 19px;
+    }
+    .mobilefooter{
+        display: block;
+        color: #000;
+        font-family: 'Poppins';
+        font-weight: 300;
+        font-size: 16px;
+    }
+}

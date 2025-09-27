@@ -68,7 +68,22 @@ body {
   }
 }
 
-.imageforfrontedpagggg{
-  width: 100%;
-  height: 100%;
+
+
+@media only screen and (max-width:453px){
+  .cards-container{
+    width: 360px;
+    height: 100vh;
+    position: relative;
+    bottom: 90px;
+    right: 0px;
+   
+  }
+  .card{
+    height: 40vh;
+  }
+  .cards-list{
+    gap: 20px;
+  }
+ 
 }

@@ -67,7 +67,7 @@ function ProductPage({imagee}){
                     </div>
                     <div className='firstdiscription'>
                         <h2 className='labelforheadingg'>Dress code</h2>
-                        <h2 className='contentforlabell'>#348849G443 </h2>
+                        <h2 className='contentforlabell anana'>#348849G443 </h2>
                     </div>
                     <div className='firstdiscription'>
                         <h2 className='labelforheadingg'>Material</h2>

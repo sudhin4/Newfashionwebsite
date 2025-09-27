@@ -87,3 +87,37 @@
     justify-content: center;
     align-items: center;
 }
+
+@media only screen and (max-width:453px){
+    .headingforfrontpageheading{
+        width: 80%;
+        position: relative;
+        top: 190px;
+    }
+    .image001,.image005{
+        display: none;
+    }
+    .image002,.image004{
+        width: 100px;
+        height: 250px;
+    }
+    .image003{
+        width: 100px;
+        height: 150px;
+    }
+    .shopnowbtnfrontpagee{
+        width: 100px;
+        height: 40px;
+        font-size: 15px;
+        border-radius: 5px;
+    }
+    .fullimagesectionforfrontpage{
+        position: relative;
+        top: 200px;
+    }
+    .boldd{
+        font-family: 'Poppins';
+        font-weight: 600;
+        font-size: 22px;
+    }
+}

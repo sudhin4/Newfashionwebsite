@@ -252,7 +252,7 @@
     place-items: center;
     align-content: center;
     position: sticky;
-    top: 0;
+    top: 40;
   }
 
   .scaler {
@@ -397,6 +397,7 @@
    background-color: white;
     z-index: 2;
     position: relative;
+    
    
   }
 

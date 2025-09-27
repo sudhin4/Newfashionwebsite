@@ -10,8 +10,11 @@ function Footer(){
                 <h2 className="Logoforfooter">Fashion</h2>
                 <div className="contactsectionfooter">
                   <MdOutlineEmail className="emailfontsizee"/>
-                <h3 className="emailforfootercontact">sudhinnaveen38@gmail.com</h3>  
+                <h3 className="emailforfootercontact">sudhinnaveen38@gmail.com</h3>
+                 
                 </div>
+                <h2 className="mobilefooter">About</h2>  
+                <h2 className="mobilefooter">Contact</h2> 
                 
             </div>
             <div className="secondcontentfooter">

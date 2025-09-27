@@ -11,7 +11,7 @@ function Frontpage(){
         <>
         <div className='fullfrontapgedivvv'>
             <div className='contentforfrontpage'>
-                <h2 className='headingforfrontpageheading'>Step into elegance with designs that inspire <b className='boldd'>Confidence</b> every day</h2>
+                <h2 className='headingforfrontpageheading'>Step into elegance with designs that inspire <b className='boldd'>"Confidence"</b> every day</h2>
             </div>
 
             <div className="fullimagesectionforfrontpage">

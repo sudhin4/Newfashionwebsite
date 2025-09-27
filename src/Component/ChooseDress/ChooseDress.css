@@ -33,4 +33,14 @@
     margin-top: 100px;
  
 }
-
+@media only screen and (max-width:453px){
+    .imagfordresssection{
+        width: 100px;
+        height: 100px;
+    }
+    .choosedresssectiondiv{
+        gap: 10px;
+        position: relative;
+        bottom: 100px;
+    }
+}

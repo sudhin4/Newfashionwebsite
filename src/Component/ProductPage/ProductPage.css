@@ -149,3 +149,45 @@ body{
     position: relative;
     left: 30px;
 }
+
+@media only screen and (max-width:453px){
+    .ProductpagecomponentDivv{
+        flex-direction: column;
+       
+        margin-top: 90px;
+    }
+    .imageforproductpageee{
+        width: 300px;
+        height: 400px;
+        position: relative;
+        left: 30px;
+    }
+    .productpagecontentsection{
+        position: relative;
+        left: 30px;
+    }
+    .addtobagbtnproductpage{
+        width: 300px;
+    }
+    .labelforheadingg{
+        font-size: 15px;
+    }
+    .contentforlabell{
+        font-size: 15px;
+    }
+    .firstdiscription{
+        gap: 40px;
+    }
+    .discriptiondivvsection{
+        width: 300px;
+    }
+    .anana{
+        position: relative;
+        left: 10px;
+    }
+    .lelele{
+        position: relative;
+        left: 73px;
+    }
+    
+}
