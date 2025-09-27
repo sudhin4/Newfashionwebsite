@@ -10,7 +10,7 @@ import "./Randomanimation.css";
  import Image4 from '../../assets/Images/women3.png'
  import Image5 from '../../assets/Images/Women4.png'
  import Image6 from '../../assets/Images/Image21.jpg'
- import Image7 from '../../assets/Images/Image22.jpg'
+ import Image7 from '../../assets/Images/image22.jpg'
  import Image8 from '../../assets/Images/Image23.jpeg'
  import Image9 from '../../assets/Images/Image28.jpg'
  import Image10 from '../../assets/Images/Image27.jpg'
