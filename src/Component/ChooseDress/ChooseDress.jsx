@@ -1,5 +1,5 @@
 import Men from '../../assets/Images/Image28.jpg'
-import Women from '../../assets/Images/Women5.png'
+import Women from '../../assets/Images/women5.png'
 import Kids from '../../assets/Images/kids4.png'
 import '../ChooseDress/ChooseDress.css'
 
