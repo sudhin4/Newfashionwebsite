@@ -1,5 +1,5 @@
 import Image1 from '../../assets/Images/Image21.jpg'
-import Image2 from '../../assets/Images/Image22.jpg'
+import Image2 from '../../assets/Images/image22.jpg'
 import Image3 from '../../assets/Images/Image28.jpg'
 import Image4 from '../../assets/Images/Image26.jpg'
 import Image5 from '../../assets/Images/Image25.jpg'
